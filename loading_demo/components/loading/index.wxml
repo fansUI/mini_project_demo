@@ -1,0 +1,4 @@
+<view class="cu-load load-modal" wx:if="{{show}}">
+    <image class="png" mode="aspectFit" src="http://wx.11babay.cn/uploads/j/jabsve1561531971/b/3/0/1/5d64e74aa7d22.png_p2js"></image>
+    <view class="gray-text">加载中...</view>
+</view>
